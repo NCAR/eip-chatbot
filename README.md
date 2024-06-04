@@ -1,6 +1,6 @@
-# [Preview] Sample Chat App with AOAI
+# EIP-Chatbot Beta
 
-This repo contains sample code for a simple chat webapp that integrates with Azure OpenAI. Note: some portions of the app use preview APIs.
+This repo was forked from the https://github.com/microsoft/sample-app-aoai-chatGPT.git Repo and customized for EIP.
 
 ## Prerequisites
 - An existing Azure OpenAI resource and model deployment of a chat model (e.g. `gpt-35-turbo-16k`, `gpt-4`)
